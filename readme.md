@@ -1,0 +1,2 @@
+# Spookbot-2  
+Spookbot was a personal project of mine for a long time. As its name implies, this was the second iteration of the bot. The primary purpose of this iteration was learning how to use cogs effectively. I would like to think it worked out quite well! However, with discord.py no longer being maintained and a growing dissatisfaction towards Discord as a platform, I am no longer interested in continuing to work on this bot.  
